@@ -1,0 +1,9 @@
+{"database":
+    {"drive" : "mysql",
+        "user"  : "golang",
+        "pass"  : "go@mysql4DB",
+        "host"  : "localhost",
+        "port"  : "3306",
+        "scheme": ["EMPLOYEEDB"]
+        }
+    }
